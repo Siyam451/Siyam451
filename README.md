@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Flutter Mobile App Developer from Bangladesh</p>
+<p align="left">I’m a Flutter mobile app developer from Bangladesh passionate about creating modern, high-performance apps that deliver great user experiences.</p>
 
 ###
 
